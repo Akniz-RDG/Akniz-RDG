@@ -4,22 +4,16 @@
 <img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 Estoy aprendiendo: **HTML, CSS, SASS, JavaScript, React, Node.js, Express y MySQL.**
-- 💬 Pregúntame sobre: **Diseño responsivo, psicología narrativa en juegos, automatización con bots y CSS Grid / Flexbox.**
+- 💬 Pregúntame sobre: **Conejos, defectos para personajes, si subes de nivel al final de la sesión.**
 - 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/rodrigoivanfigueroa)**
 - 🎯 Intereses:  
-  - Psicología junguiana, narrativa y símbolos.  
-  - Juegos de rol como D&D y sus mecánicas.  
-  - Diseño web centrado en experiencia emocional.  
-  - Automatización con Discord bots.  
-  - Creación de contenido educativo.  
+  - Psicología junguiana. 
+  - Calabozos, dragones y otros mundos de fantasía.  
+  - Diseño web.
+  - Experiencias amigables.  
+  - Entrenamiento en Esports basado en la evidencia.
   - Japón, idioma y cultura.  
-
----
-
-<img align="right" alt="Dice GIF" height="170px" src="https://media.giphy.com/media/3o7TKGMzFd3vD7LxAA/giphy.gif" />
-
-### Spotify en reproducción 🎧  
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/rdgfigueroa)
+  - Chiikawa y cosas tiernas.
 
 ---
 
@@ -35,7 +29,7 @@
 
 ### Conecta conmigo:
 <p align="left">
-<a href="https://www.linkedin.com/in/rodrigoivanfigueroa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://www.[linkedin.com/in/rodrigoivanfigueroa](https://www.linkedin.com/in/rodrigo-figueroa-sch%C3%B6bitz-04b431123/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
 <a href="https://github.com/Akniz-RDG" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
 </p>
 
