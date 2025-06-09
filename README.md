@@ -43,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" alt="sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" alt="express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="github" width="40" height="40"/>
