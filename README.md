@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo: **HTML, CSS, SASS, JavaScript, React, Node.js, Express y MySQL.**
 - 💬 Pregúntame sobre: **Conejos, defectos para personajes, si subes de nivel al final de la sesión.**
-- 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/rodrigoivanfigueroa)**
+- 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/rodrigo-figueroa-sch%C3%B6bitz-04b431123/)**
 - 🎯 Intereses:  
   - Psicología junguiana. 
   - Calabozos, dragones y otros mundos de fantasía.  
