@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Rodrigo</h1>
-<h3 align="center">Psicólogo & Desarrollador en formación | Explorador del código, la mente y la narrativa.</h3>
+<h3 align="center">Psicólogo Clínico con 8 años de experiencia & Desarrollador en formación | Un eterno curioso amante por la mente, amante de la creatividad y apasionado por la narrativa.</h3>
 </br>
 <img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
