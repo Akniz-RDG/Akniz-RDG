@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Rodrigo</h1>
-<h3 align="center">Psicólogo Clínico con 8 años de experiencia & Desarrollador en formación | Un eterno curioso amante por la mente, amante de la creatividad y apasionado por la narrativa.</h3>
+<h3 align="center">Psicólogo Clínico con 8 años de experiencia & Desarrollador en formación | Un eterno curioso de la mente, amante de la creatividad y apasionado por la narrativa.</h3>
 </br>
 <img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -7,12 +7,12 @@
 - 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/rodrigo-figueroa-sch%C3%B6bitz-04b431123/)**
 - 🎯 Intereses:  
   - Psicología Analítica.
-  - Calabozos, dragones y otros mundos de fantasía.  
-  - Diseño web.
-  - Experiencias amigables.  
+  -  Diseño web.
   - Entrenamiento en Esports basado en la evidencia.
+  - Calabozos, dragones y otros mundos de fantasía.  
+  - Experiencias amigables.  
   - Japón, idioma y cultura.  
-  - Chiikawa y cosas tiernas.
+  - Chiikawa y otras cosas tiernas.
 
 ---
 
