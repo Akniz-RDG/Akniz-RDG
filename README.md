@@ -3,18 +3,20 @@
 </br>
 <img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 Estoy aprendiendo: **HTML, CSS, SASS, JavaScript, React, Node.js, Express y MySQL.**
-- 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/rodrigo-figueroa-sch%C3%B6bitz-04b431123/)**
-- 🎯 Intereses:  
-  - Psicología Analítica.
-  -  Diseño web.
-  - Entrenamiento en Esports basado en la evidencia.
-  - Calabozos, dragones y otros mundos de fantasía.  
-  - Experiencias amigables.  
-  - Japón, idioma y cultura.  
-  - Chiikawa y otras cosas tiernas.
+### 👋 Sobre mí
 
----
+- 🌱 Actualmente aprendiendo: **HTML, CSS, SASS, JavaScript, React, Node.js, Express y MySQL.**
+- 📫 Cómo contactarme:  
+  - **[LinkedIn](https://www.linkedin.com/in/rodrigo-figueroa-sch%C3%B6bitz-04b431123/)**  
+  - **Correo:** rfigueroas.dev@gmail.com
+- 🎯 Intereses:
+  - Psicología Analítica
+  - Diseño web centrado en la experiencia del usuario
+  - Entrenamiento en Esports basado en evidencia científica
+  - Calabozos, dragones y otros mundos de fantasía
+  - Experiencias digitales amigables
+  - Japón: idioma y cultura
+  - Chiikawa y otras cosas tiernas ✨
 
 ### Últimos proyectos
 
