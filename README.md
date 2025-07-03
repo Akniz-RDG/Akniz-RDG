@@ -19,9 +19,17 @@
 ### Últimos proyectos
 
 <!-- PROJECT-LIST:START -->
-- ⚖️  **[AbogApp Beta](https://github.com/Akniz-RDG/NAT_20](https://akniz-rdg.github.io/beta.abogapp/)** - Aplicación web ligera de gestión legal pensada para estudios jurídicos pequeños o medianos.
-- 🗺️ **[Chult Map Tool](https://github.com/Akniz-RDG/chult_map_tool)**  Mapa interactivo de hexágonos para Tomb of Annihilation.
-- 🛠️ **[Fortress Manager Bot](https://github.com/Akniz-RDG/FM)** — Bot de Discord que genera recursos por voz y administra fortalezas.
+### 🚀 Proyectos Destacados
+
+- ⚖️ **[AbogApp Beta](https://akniz-rdg.github.io/beta.abogapp/)**  
+  Aplicación web ligera para la gestión legal, diseñada especialmente para estudios jurídicos pequeños o medianos.  
+  👉 [Repositorio en GitHub](https://github.com/Akniz-RDG/NAT_20)
+
+- 🗺️ **[Chult Map Tool](https://github.com/Akniz-RDG/chult_map_tool)**  
+  Mapa interactivo basado en hexágonos para facilitar la exploración en la campaña *Tomb of Annihilation* de D&D 5e.
+
+- 🛠️ **[Fortress Manager Bot](https://github.com/Akniz-RDG/FM)**  
+  Bot para Discord que permite gestionar fortalezas mediante comandos de voz, ideal para campañas de rol con elementos de construcción y recursos.
 <!-- PROJECT-LIST:END -->
 
 ---
