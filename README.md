@@ -6,10 +6,14 @@
 ### 👋 Sobre mí
 
 - 🌱 Actualmente aprendiendo: **HTML, CSS, SASS, JavaScript, React, Node.js, Express y MySQL.**
-- 📫 Cómo contactarme:  
+  
+- 📫 Cómo contactarme:
+  
   - **[LinkedIn](https://www.linkedin.com/in/rodrigo-figueroa-sch%C3%B6bitz-04b431123/)**  
   - **Correo:** rfigueroas.dev@gmail.com
+    
 - 🎯 Intereses:
+  
   - Psicología Analítica
   - Diseño web centrado en la experiencia del usuario
   - Entrenamiento en Esports basado en evidencia científica
