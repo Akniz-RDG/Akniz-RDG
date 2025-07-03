@@ -56,7 +56,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sass.svg" alt="sass" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" alt="express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="figma" width="40" height="40"/>
@@ -64,8 +63,4 @@
 
 ---
 
-🧠 _“El código es como la psique: si no lo exploras, repite sus errores en bucle.”_
-
----
-
-_Last updated on: 03/06/2025_
+_Última Actualización: 03/07/2025_
