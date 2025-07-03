@@ -19,8 +19,8 @@
 ### Últimos proyectos
 
 <!-- PROJECT-LIST:START -->
-- ⚖️  **[AbogApp Beta]([https://github.com/Akniz-RDG/NAT_20](https://akniz-rdg.github.io/beta.abogapp/))** Aplicación web ligera de gestión legal pensada para estudios jurídicos pequeños o medianos.
-- 🗺️ **[Chult Map Tool](https://github.com/Akniz-RDG/chult_map_tool)** — Mapa interactivo de hexágonos para Tomb of Annihilation.
+- ⚖️  **[AbogApp Beta](https://github.com/Akniz-RDG/NAT_20](https://akniz-rdg.github.io/beta.abogapp/)** - Aplicación web ligera de gestión legal pensada para estudios jurídicos pequeños o medianos.
+- 🗺️ **[Chult Map Tool](https://github.com/Akniz-RDG/chult_map_tool)**  Mapa interactivo de hexágonos para Tomb of Annihilation.
 - 🛠️ **[Fortress Manager Bot](https://github.com/Akniz-RDG/FM)** — Bot de Discord que genera recursos por voz y administra fortalezas.
 <!-- PROJECT-LIST:END -->
 
