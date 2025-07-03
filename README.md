@@ -23,7 +23,7 @@
 
 - ⚖️ **[AbogApp Beta](https://akniz-rdg.github.io/beta.abogapp/)**  
   Aplicación web ligera para la gestión legal, diseñada especialmente para estudios jurídicos pequeños o medianos.  
-  👉 [Repositorio en GitHub](https://github.com/Akniz-RDG/NAT_20)
+  👉 [Repositorio en GitHub](https://github.com/Akniz-RDG/beta.abogapp)
 
 - 🗺️ **[Chult Map Tool](https://github.com/Akniz-RDG/chult_map_tool)**  
   Mapa interactivo basado en hexágonos para facilitar la exploración en la campaña *Tomb of Annihilation* de D&D 5e.
