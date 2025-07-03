@@ -4,10 +4,9 @@
 <img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 Estoy aprendiendo: **HTML, CSS, SASS, JavaScript, React, Node.js, Express y MySQL.**
-- 💬 Pregúntame sobre: **Conejos, defectos para personajes, si subes de nivel al final de la sesión.**
 - 📫 Cómo contactarme: **[LinkedIn](https://www.linkedin.com/in/rodrigo-figueroa-sch%C3%B6bitz-04b431123/)**
 - 🎯 Intereses:  
-  - Psicología junguiana. 
+  - Psicología Analítica.
   - Calabozos, dragones y otros mundos de fantasía.  
   - Diseño web.
   - Experiencias amigables.  
@@ -20,7 +19,7 @@
 ### Últimos proyectos
 
 <!-- PROJECT-LIST:START -->
-- 🎲 **[NAT_20](https://github.com/Akniz-RDG/NAT_20)** — Simulador de dados de D&D con efectos especiales para críticos.
+- ⚖️  **[AbogApp Beta]([https://github.com/Akniz-RDG/NAT_20](https://akniz-rdg.github.io/beta.abogapp/))** Aplicación web ligera de gestión legal pensada para estudios jurídicos pequeños o medianos.
 - 🗺️ **[Chult Map Tool](https://github.com/Akniz-RDG/chult_map_tool)** — Mapa interactivo de hexágonos para Tomb of Annihilation.
 - 🛠️ **[Fortress Manager Bot](https://github.com/Akniz-RDG/FM)** — Bot de Discord que genera recursos por voz y administra fortalezas.
 <!-- PROJECT-LIST:END -->
